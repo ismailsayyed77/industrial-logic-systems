@@ -150,7 +150,7 @@ PWR  E-STP  OVLD  TEMP_OK  OUTPUT
 
 **Maaz**  
 Electronics & Telecommunication Engineering  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn]( linkedin.com/in/ismail-sayyed-8a5b66318) · [GitHub](github.com/ismailsayyed77 )
 
 ---
 
