@@ -4,7 +4,7 @@ Industrial Motor Data Pipeline
 Reads motor sensor data, cleans anomalies, and generates
 statistical trend models with visualization.
 
-Author: Maaz
+Author: Ismail Mansoor Sayyed
 Project: Industrial Logic & Systems Analysis
 """
 
